@@ -1,0 +1,10 @@
+{
+  "name": "fenix-assets",
+  "description": "Modelos 3D e texturas de planetas do jogo Esquadrão Fênix",
+  "credits": {
+    "models": "Quaternius Ultimate Spaceships Pack — CC0 1.0 (mapas PBR gerados a partir das texturas originais)",
+    "earth": "NASA Visible Earth: Blue Marble Next Generation, Blue Marble Clouds, Earth's City Lights, SVS ocean mask — domínio público",
+    "sky": "ESA/Gaia/DPAC — mapa do céu Gaia EDR3 (CC BY-SA 3.0 IGO)",
+    "planets": "Solar System Scope (CC BY 4.0, baseado em dados da NASA) e Planet Pixel Emporium via KyleGough/solar-system"
+  }
+}
